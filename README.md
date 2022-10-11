@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomekStolarz
 - 👀 I’m interested in coding, gym and automotive
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning Angular
 
 
 <!---
